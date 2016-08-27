@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\vsprojects\test\test\source.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vsprojects\test\test\source.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vsprojects\test\test\source.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+  test.vcxproj -> D:\VSProjects\test\Debug\test.exe
